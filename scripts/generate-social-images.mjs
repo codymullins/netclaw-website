@@ -10,7 +10,7 @@ const MANIFEST_PATH = join(ROOT, 'social-images-manifest.json');
 
 const HCTI_USER_ID = process.env.HCTI_USER_ID;
 const HCTI_API_KEY = process.env.HCTI_API_KEY;
-const HCTI_DOC_TEMPLATE_ID = process.env.HCTI_DOC_TEMPLATE_ID || 't-019dfa05-d5c5-746b-b017-835368bea41a';
+const HCTI_DOC_TEMPLATE_ID = process.env.HCTI_DOC_TEMPLATE_ID || 't-019dfa11-cf0f-79e2-9be2-a24c95bef027';
 const HOMEPAGE_MOCKUP = join(ROOT, 'mockups', 'hcti-social-card-homepage-c.html');
 
 const SECTION_MAP = {
