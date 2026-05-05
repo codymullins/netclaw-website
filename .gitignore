@@ -11,8 +11,10 @@ public/screenshots/output/
 # Screenshot pipeline temp
 screenshots/.netclaw-screenshot-home/
 
-# Doc writing pipeline logs and screenshots
+# Doc writing pipeline logs, queue, and scripts
 docs-logs/
+docs-queue.md
+scripts/write-docs.sh
 
 # OpenProse runtime state
 .prose/runs/
