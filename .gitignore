@@ -11,5 +11,15 @@ public/screenshots/output/
 # Screenshot pipeline temp
 screenshots/.netclaw-screenshot-home/
 
+# Doc writing pipeline logs and screenshots
+docs-logs/
+
+# OpenProse runtime state
+.prose/runs/
+.prose/agents/
+
+# Local Claude settings and skills
+.claude/
+
 # OS files
 .DS_Store
