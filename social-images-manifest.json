@@ -1,0 +1,184 @@
+{
+  "pages": {
+    "__homepage__": {
+      "hash": "9d40aa3d1dac1fce0699ba87aa035e7d8ade662ce529231cfd9beb1b8b4d93ce",
+      "imageUrl": "https://hcti.io/v1/image/019dfa05-fe44-754f-9de0-2fa43ce1c069"
+    },
+    "architecture/overview": {
+      "hash": "c1616f0c20f56225dc1a02bbcce22aa6241a5849ca08f71ccf57745f46739310",
+      "imageUrl": "https://hcti.io/v1/image/9155dccbaebd6ca949a6aed1debd048f8192f5107007032f23aaa16ffccb2fd7"
+    },
+    "architecture/security-model": {
+      "hash": "01e8852184cd31c6301aefae143ec6786c7d0a5bd7459b5f89fa1eff5340ede2",
+      "imageUrl": "https://hcti.io/v1/image/124821af097ce113cb884e744216ad0d30935523d4b9182f44d84c67cbf47a38"
+    },
+    "channels/discord": {
+      "hash": "1ea80a02366c090e57fa62434ff1b403d644ebc1833695fb9dd5c72a36bb0cb1",
+      "imageUrl": "https://hcti.io/v1/image/34dcea0ec4a4eb37099eec8f388e388d49d9b517a26df937dd7a5ed3329458e5"
+    },
+    "channels/slack": {
+      "hash": "fd6d8e6c5b31a3221e0c6af838ee6d0a4363b92af186f08d8e988d193c6c853f",
+      "imageUrl": "https://hcti.io/v1/image/fc1f57d6700aa302b43a145dafff5d598fd457b930b74028841d6cdc9aca0392"
+    },
+    "channels/troubleshooting": {
+      "hash": "c5ce67885990db452213279049dfd8b217de8cef12aafd5dcca7ecabcde73916",
+      "imageUrl": "https://hcti.io/v1/image/b61324ff45c12673138242d6acb0c189864ae656a7268229aca6bd4ac123b246"
+    },
+    "cli/chat": {
+      "hash": "426ac6f8cc39b5e4895ea39e7beb42288ad2eddd4b9b6d7dc99ca458c97b6cb3",
+      "imageUrl": "https://hcti.io/v1/image/0573f2c099bae29ff568bb6043fd40f7960d2b2d8099dce909d161dd65e6242e"
+    },
+    "cli/doctor": {
+      "hash": "48bf3f0419cc1b689c19f150a509c25fde2c384586ed4bf3c0cdd8658efd60af",
+      "imageUrl": "https://hcti.io/v1/image/db9b7e7d1eeddb8a421bd77c02a1fce5807cc445926657bbde89c771699af2f9"
+    },
+    "cli/init": {
+      "hash": "26b70b9f6fcd3d1ce864c2df5d7d73cfab9c69b0f87bca7801d0bd0e7cf4bc08",
+      "imageUrl": "https://hcti.io/v1/image/76bcb4cf2b2092d7e32b0b0515af676a986a4f1fde1b145536ec2a26ad9cad5b"
+    },
+    "cli/mcp-tools": {
+      "hash": "936d44d3ba98bf4858916a4ba5f4f46987c8babf35db3e937b0b4090d8979278",
+      "imageUrl": "https://hcti.io/v1/image/f204253fa8a6da72bee7bc4c21e67c423955b7abcba03073ce6c420b2807add9"
+    },
+    "cli/model": {
+      "hash": "1b150d1ff7d42980aea436278503492f26c763572ecf2648836c653a81f450b3",
+      "imageUrl": "https://hcti.io/v1/image/d26c9484ef638feac469dd2253df492d35542b01f04b32dcdd0d2fa7c8a7085c"
+    },
+    "cli/overview": {
+      "hash": "c1704d3e1d7e7bb2ef1e69b10f800924829ca6d948d0c51a2d5ff0d45143475e",
+      "imageUrl": "https://hcti.io/v1/image/73ae244eb7c18e507321def51312f854bf4f746073742edd19a51ee33f668cb1"
+    },
+    "cli/provider": {
+      "hash": "7f9d090336fd353a1fd9e3bbec21ea5a22237300125cce2b31be025a75b40867",
+      "imageUrl": "https://hcti.io/v1/image/f6c4cc7edecc575084ae8a6ee300883bd33d4bed68c3d0bce9cf33162f236aeb"
+    },
+    "cli/reminder": {
+      "hash": "c146a9ee8960d950d472dd5b5021e0598d15b580da877e446a5dd1476ed201b4",
+      "imageUrl": "https://hcti.io/v1/image/9255059b4b1b2f80a0dde4d8d42197a73822847e5407e0b085de1a3a86662cf5"
+    },
+    "cli/secrets": {
+      "hash": "d9103487526ddf2660f0926975b24d7b786949221df10812b2d99e864753eedf",
+      "imageUrl": "https://hcti.io/v1/image/692012c55833371e060e6e94ee24657e1c79be7289c11601173b588b8d902d41"
+    },
+    "cli/sessions": {
+      "hash": "92d9704d6a1318fd4fb8d77ce2b2e218b7ab7ad89b3c0755563c7f8d8367532a",
+      "imageUrl": "https://hcti.io/v1/image/1d81b3383fcae0886ddb73e3fe04bb5a7812d5a82556834771cbd2c8ea4dbda4"
+    },
+    "cli/skill": {
+      "hash": "2b04854031dc157f4c3a6bf7d7482c6156679a65f2ceebef7dadc0687ca65c97",
+      "imageUrl": "https://hcti.io/v1/image/bf66bb38f33bf416b4aee98c7c0a7a671be0b5cb58f076c2c2b60ba5120a6130"
+    },
+    "cli/stats": {
+      "hash": "ed2b1ec498362c6390ad696b6a3a37a56c8b9ec42e0885ee5c05417f69a9393b",
+      "imageUrl": "https://hcti.io/v1/image/428e72ffee204771aeaf57bdcc8f69c7ba58b0a3fc0e98cdee8898e7ac043080"
+    },
+    "cli/status": {
+      "hash": "b5d565cf34eebf673d462727c0bc6b51594faad961a8da7ca55b01787fb798aa",
+      "imageUrl": "https://hcti.io/v1/image/fb15cba0b6fc1f7ca7e5166c421fc440bfa396d374792ac3c3494fbe8a28563a"
+    },
+    "cli/webhooks": {
+      "hash": "12d091716fd761995a98c48c4806179028fc786c557382faa86f58dd53776b93",
+      "imageUrl": "https://hcti.io/v1/image/fa9407a653a75e3b23ab30d0a0fe992dc2bf8044c31a540f72949937bab321e1"
+    },
+    "configuration/managed-providers": {
+      "hash": "2f07d0993f427e47e8365814cc762d2d4b38469189659ed01ff04fd7a50f8b3b",
+      "imageUrl": "https://hcti.io/v1/image/1ff721eaaae6b8d902d8c652fcc6c654140e2fc099b826cd1bdf8ce292fe02bc"
+    },
+    "configuration/mcp-servers": {
+      "hash": "2c444a732f11895d0eae33daf31ed4e2cc6e75b673a0e0ddf44e79b56a538edd",
+      "imageUrl": "https://hcti.io/v1/image/f899d6f3b7b6746a3fb35f021943741772dffc115aa0a0c7e2fe45172abb44d7"
+    },
+    "configuration/models": {
+      "hash": "eab25290db3cf0b886c85be8895341c61cc91fb193b85c8e823031787474b166",
+      "imageUrl": "https://hcti.io/v1/image/f54c4a009e2caaa513cbb03296d639a74512f38c936cf1e4cf4a04dc42f99be6"
+    },
+    "configuration/reminders": {
+      "hash": "29a7c5f1c5f28bdf28aa4170ff43fd4c59f8927fa98a8e0a8721996edf8f89cd",
+      "imageUrl": "https://hcti.io/v1/image/72249c0d6506e4c7f20a5f54917afc1c04f34b93ebb52a0fc29bedb39b713e31"
+    },
+    "configuration/self-hosted-providers": {
+      "hash": "47b44c1efb716edd87bb2a21b3b13d5868f8df035abac22d2fc33e1f75a8189f",
+      "imageUrl": "https://hcti.io/v1/image/73ea88f2353a6342f40ed4bcb9778bf8d2e29e28510a61b493c72267bb979e4a"
+    },
+    "configuration/webhooks": {
+      "hash": "c156fe5fa9cb9b58a1e90c532937899f2cfdf7bcc4e553d12ba3798b141333b5",
+      "imageUrl": "https://hcti.io/v1/image/a40ca63504740f9aa815e5f0418ec1cf586d93e8aea8490988df91ebbea2da00"
+    },
+    "deployment/docker": {
+      "hash": "784f1dc11dd4aa9b8b0fad62123fc92ce7725f7c766c7fcfae55460e9abead40",
+      "imageUrl": "https://hcti.io/v1/image/d0f0073b8bcd90b04bd1be544ab0e00b15b254ffcaca179ed99b5d4e99b83db9"
+    },
+    "deployment/exposure-modes": {
+      "hash": "665156510cc5711b46b7a2d383701166716d84084a24c63fbc394d5f01d63530",
+      "imageUrl": "https://hcti.io/v1/image/06798443cc2692aa6637982e6acc00e23c6a6722846476686be3e9f5e8176d98"
+    },
+    "deployment/systemd": {
+      "hash": "7053553abee7a610eaf3aebbd806f031b8f718390253c8185254da5da89d08dc",
+      "imageUrl": "https://hcti.io/v1/image/3c89c095238c44e0a71fba4e197f9a4e8c3031d6b4d61f09b0d53f8e439fbfe5"
+    },
+    "getting-started/first-conversation": {
+      "hash": "38ad75f0dda80f35d0cdb637a4bb05010bd639e58d94451493a4d7d3af6056ff",
+      "imageUrl": "https://hcti.io/v1/image/8a5b78bc1a436ea9971196516adf05c7a2724050b0372d7b70359b1336c4b63c"
+    },
+    "getting-started/installation": {
+      "hash": "2805b0dbf684aab37e07404b295479fbcc99ac8486cbd27531a7ee6b8eb348f4",
+      "imageUrl": "https://hcti.io/v1/image/2a4ffe66d6775ceaa602bd2ef80cf370f66366772cb829619be492a1514dfe25"
+    },
+    "getting-started/quickstart": {
+      "hash": "79b8707f2d46fe904c41e86865bf1b7c79ec3e5d3a2d15229c4e858e1b5706be",
+      "imageUrl": "https://hcti.io/v1/image/568cc4bf39acbef0bce545b04568fb618a21beb259fd59a98b1019384efa1d0b"
+    },
+    "guides/connecting-slack": {
+      "hash": "45b07cf6b108c349aaeded2967db9274d251a55ee3d05bdc326617fe7e61b39c",
+      "imageUrl": "https://hcti.io/v1/image/1ddcacc324c25af0704846286d513d09d9d9d606256a6444360588a89162f627"
+    },
+    "guides/mcp-tool-permissions": {
+      "hash": "ec6858aced356cbb7718c076b93c727a8fdf1c3758195aaa84c35b49cd8f2d59",
+      "imageUrl": "https://hcti.io/v1/image/6c364124b20145d7788e18804ddfd77abaa1c55e506c3e37dc9c327757cda0c7"
+    },
+    "guides/pairing-remote-devices": {
+      "hash": "fb91f228632d21d2546c5a4124a13c976358902b2cbb45fdb94d82e6a2d2fd3f",
+      "imageUrl": "https://hcti.io/v1/image/81daea2830b31d15304acc0e8270f7c5a4d10a49531b55bb639137adfef07798"
+    },
+    "observability/health-checks": {
+      "hash": "a723d660cd330f2e7a69298cb700ce70250e5b03e8d6c21a4a2d9501ef2cb3d5",
+      "imageUrl": "https://hcti.io/v1/image/df0fb334bcc2a5d004c167cba87a8c37b9f5ef17487f2b4113ea044be8299042"
+    },
+    "observability/opentelemetry": {
+      "hash": "8cc3b634a2f5811a0cc4e35d5ff939a0ccd7cad26ff5ee78de9ee48d5d532b48",
+      "imageUrl": "https://hcti.io/v1/image/538e464efb025f1804dd650ff0d79217d737500a614e0a68904745785e0f7ab3"
+    },
+    "observability/operational-alerts": {
+      "hash": "21e6df9a8532ccab2e2be4b20840ef6d5366ac9e73f203d179488a4871d5dbab",
+      "imageUrl": "https://hcti.io/v1/image/e04828a72c727161c8433bd0bf69b726d065f2ebfa56384e21a384ce189eada3"
+    },
+    "security/hardening": {
+      "hash": "9955b00c0a2c19415c185dc0e25fb565751011171f9c0aea5e39acec6c55b58f",
+      "imageUrl": "https://hcti.io/v1/image/36c18aeef2158c3e17d69ae00f8a91c7336adf05b91eb564c1819a02ee9c3ca4"
+    },
+    "security/secrets": {
+      "hash": "04ee9781cc521a193ca9c0cc59b6052c525f8105f6361e4f00358d154451c31b",
+      "imageUrl": "https://hcti.io/v1/image/acdcb28c51812f299287ab6837b51830f4b5e2a88f81fe42ebed9195e3da2ef3"
+    },
+    "security/security-model": {
+      "hash": "2832ef77487fe138bdbe65f2a655fa356cf66235ee355093f5ae1b32e21d352e",
+      "imageUrl": "https://hcti.io/v1/image/eb3765bd4eb637e986f7ec4dfefd05f2095a4ae3b874f90a11b88bbc319a5cce"
+    },
+    "skills/external-skills": {
+      "hash": "fbde5cc4b199253018f2129c9be0b3dc6caaa7631cd904cab193a60e2ca074de",
+      "imageUrl": "https://hcti.io/v1/image/125285e919f1df995e2fabcad4bffd93c4667eea3599e4c3eb35e164f40b2566"
+    },
+    "skills/overview": {
+      "hash": "25fddbeab705511418c9e73967fe6d6530a17be4c3e0183cb92f9f83e3a12ee7",
+      "imageUrl": "https://hcti.io/v1/image/65257438c1236ab8c713c0329d51f46fbeb57abf52f4172dc38b310cf50a23e3"
+    },
+    "skills/skill-feeds": {
+      "hash": "033e91e953d27e066c0df1f733aeeb242df939333a280f999fa948f630f3d0a9",
+      "imageUrl": "https://hcti.io/v1/image/52a05f0c941e2c6e408b833d0bc9e94c1ae611c804ea1e6b3f6a21566cf9cb05"
+    },
+    "skills/skill-server": {
+      "hash": "a7ec0885a62552997cea55f6a58eb9221f7a2dda77ee42112767c548978d43a8",
+      "imageUrl": "https://hcti.io/v1/image/c28dbf9c29b2d338bf52ca28121fee10855accca07019a8568270b46f518637c"
+    }
+  }
+}

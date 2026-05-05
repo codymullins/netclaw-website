@@ -30,6 +30,9 @@ jobs:
 
       - name: Build site
         run: npm run build
+        env:
+          HCTI_USER_ID: ${{ secrets.HCTI_USER_ID }}
+          HCTI_API_KEY: ${{ secrets.HCTI_API_KEY }}
 
       - name: Deploy to Cloudflare Pages
         uses: cloudflare/wrangler-action@v3

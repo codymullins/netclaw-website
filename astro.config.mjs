@@ -31,6 +31,7 @@ export default defineConfig({
         { tag: 'link', attrs: { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: true } },
         { tag: 'link', attrs: { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=JetBrains+Mono:wght@400;500&display=swap' } },
       ],
+      routeMiddleware: ['./src/route-data-social-images.ts'],
       customCss: [
         './src/styles/custom.css',
       ],
