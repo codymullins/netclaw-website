@@ -129,9 +129,15 @@ export default defineConfig({
         {
           label: 'Guides',
           items: [
-            { label: 'Connecting Slack', slug: 'guides/connecting-slack' },
             { label: 'MCP Tool Permissions', slug: 'guides/mcp-tool-permissions' },
             { label: 'Pairing Remote Devices', slug: 'guides/pairing-remote-devices' },
+          ],
+        },
+        {
+          label: 'Comparisons',
+          items: [
+            { label: 'vs. OpenClaw', slug: 'comparisons/openclaw' },
+            { label: 'vs. Hermes Agent', slug: 'comparisons/hermes-agent' },
           ],
         },
       ],
