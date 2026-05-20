@@ -1,0 +1,23 @@
+---
+import ChangelogLayout from '../../layouts/ChangelogLayout.astro';
+import { getReleases } from '../../lib/releases.js';
+
+export async function getStaticPaths() {
+  const { releases } = await getReleases();
+  return releases.map((r) => ({
+    params: { tag: r.tag },
+    props: { release: r },
+  }));
+}
+
+const { release } = Astro.props;
+const canonical = `https://netclaw.dev/changelog/${release.tag}`;
+// release.name is non-null only when it differs from the tag (filtered in releases.js).
+const headline = release.name ? ` — ${release.name}` : '';
+---
+<ChangelogLayout
+  release={release}
+  pageTitle={`v${release.tag} — Netclaw Changelog`}
+  pageDescription={`Release notes for Netclaw v${release.tag}${headline}.`}
+  canonicalUrl={canonical}
+/>

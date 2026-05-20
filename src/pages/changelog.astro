@@ -1,0 +1,22 @@
+---
+import ChangelogLayout from '../layouts/ChangelogLayout.astro';
+import { getReleases } from '../lib/releases.js';
+
+const { releases } = await getReleases();
+const latest = releases[0] || null;
+
+// /changelog always renders the latest release. The canonical URL points at
+// the versioned route so search engines pick that as the indexable copy and
+// permalinks land on /changelog/<tag>.
+const canonical = latest ? `https://netclaw.dev/changelog/${latest.tag}` : undefined;
+
+const description = latest
+  ? `Release notes for Netclaw v${latest.tag} and every previous version.`
+  : 'Release notes and version history for Netclaw.';
+---
+<ChangelogLayout
+  release={latest}
+  pageTitle="Changelog — Netclaw"
+  pageDescription={description}
+  canonicalUrl={canonical}
+/>
